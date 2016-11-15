@@ -1,0 +1,12 @@
+*.zip
+*.rar
+*.via
+*.tmp
+*.err
+.svn/
+
+.classpath
+.settings/
+target/
+.project
+
